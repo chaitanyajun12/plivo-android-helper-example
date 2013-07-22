@@ -11,7 +11,6 @@ import com.plivo.helper.android.exception.AndroidClientException;
 import com.plivo.helper.android.rest.HttpFactory;
 
 public class TestPlivoActivity extends Activity {
-	/** Called when the activity is first created. */
 
 	private String AUTH_ID = "";	// AUTH_ID
 	private String AUTH_TOKEN = "";	// AUTH_TOKEN
